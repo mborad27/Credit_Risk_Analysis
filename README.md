@@ -1,4 +1,4 @@
-# Credit Risk Analysis: MachineLearning
+# Credit Risk Analysis: Machine Learning
 ## Overview
 LendingClub is a peer to peer lending service company that wants to use machine learning to predict credit risk. Upper management believes that this will provide a quicker and more reliable loan experience. In addition, they surmise that machine learning will lead to a more accurate identification of good candidates of loans for which will lead to lower default rates. Credit risk is an unbalanced classification problem, as good loans outnumber risky loans. We will employ different techniques to train and evaluate models with unbalanced classes. Using the credit card credit dataset from LendingClub, we will build and evaluate models using resampling.
 ## Results
